@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 2ab6ca7cd1d8d499bb49fbca6715198d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: baseboard
+    100002: ceiling
+    100004: entry-room__double-window
+    100006: entry-room__entry-door
+    100008: entry-room__entry-frame
+    100010: entry-room__kitchen-entry-frame
+    100012: entry-room__single-window
+    100014: floor
+    100016: //RootNode
+    100018: living-room__entry-door
+    100020: living-room__entry-frame
+    100022: living-room__hall-frame
+    100024: living-room__window
+    100026: mantle
+    100028: picture-moulding
+    100030: recessed-lights
+    100032: walls
+    100034: living-room__hall-door
+    100036: living-room__hall-frame.001
+    100038: outlets
+    100040: vents-intake
+    100042: vents-output
+    100044: switches
+    400000: baseboard
+    400002: ceiling
+    400004: entry-room__double-window
+    400006: entry-room__entry-door
+    400008: entry-room__entry-frame
+    400010: entry-room__kitchen-entry-frame
+    400012: entry-room__single-window
+    400014: floor
+    400016: //RootNode
+    400018: living-room__entry-door
+    400020: living-room__entry-frame
+    400022: living-room__hall-frame
+    400024: living-room__window
+    400026: mantle
+    400028: picture-moulding
+    400030: recessed-lights
+    400032: walls
+    400034: living-room__hall-door
+    400036: living-room__hall-frame.001
+    400038: outlets
+    400040: vents-intake
+    400042: vents-output
+    400044: switches
+    2100000: recessed-lighting-emission
+    2100002: recessed-lighting-white
+    2100004: white-semi-gloss
+    2100006: fireplace-red-brick
+    2100008: fireplace-mortar
+    2100010: fireplace-black
+    2100012: fireplace-inside-base
+    2100014: white-semi-gloss--door-moulding
+    2100016: entry-door-chrome
+    2100018: black
+    2100020: entry-door-black
+    2100022: white-semi-gloss--door-moulding SELECT
+    2100024: interior-walls
+    2100026: floor
+    2100028: white-semi-gloss--door-moulding.002
+    2100030: antique-bronze--hinge.002
+    2100032: antique-bronze--strike-latch.002
+    2100034: white-semi-gloss--door-moulding.001
+    2100036: antique-bronze--hinge.001
+    2100038: antique-bronze--strike-latch.000
+    2100040: black.001
+    2100042: white-semi-gloss--door.001
+    2100044: antique-bronze--latch-plate.001
+    2100046: antique-bronze--knob.001
+    2100048: chome--latch.001
+    2100050: electrical-plate-white.001
+    2100052: electrical-plate-grey.001
+    2100054: hvac-vent-white.001
+    2100056: hvac-vent-grey.001
+    2100058: recessed-lighting-emission.001
+    2100060: recessed-lighting-white.001
+    2100062: electrical-plate-white.002
+    2100064: electrical-plate-grey.002
+    2300000: baseboard
+    2300002: ceiling
+    2300004: entry-room__double-window
+    2300006: entry-room__entry-door
+    2300008: entry-room__entry-frame
+    2300010: entry-room__kitchen-entry-frame
+    2300012: entry-room__single-window
+    2300014: floor
+    2300016: living-room__entry-door
+    2300018: living-room__entry-frame
+    2300020: living-room__hall-frame
+    2300022: living-room__window
+    2300024: mantle
+    2300026: picture-moulding
+    2300028: recessed-lights
+    2300030: walls
+    2300032: living-room__hall-door
+    2300034: living-room__hall-frame.001
+    2300036: outlets
+    2300038: vents-intake
+    2300040: vents-output
+    2300042: switches
+    3300000: baseboard
+    3300002: ceiling
+    3300004: entry-room__double-window
+    3300006: entry-room__entry-door
+    3300008: entry-room__entry-frame
+    3300010: entry-room__kitchen-entry-frame
+    3300012: entry-room__single-window
+    3300014: floor
+    3300016: living-room__entry-door
+    3300018: living-room__entry-frame
+    3300020: living-room__hall-frame
+    3300022: living-room__window
+    3300024: mantle
+    3300026: picture-moulding
+    3300028: recessed-lights
+    3300030: walls
+    3300032: living-room__hall-door
+    3300034: living-room__hall-frame.001
+    3300036: outlets
+    3300038: vents-intake
+    3300040: vents-output
+    3300042: switches
+    4300000: recessed-lights
+    4300002: mantle
+    4300004: entry-room__entry-frame
+    4300006: entry-room__entry-door
+    4300008: living-room__entry-frame
+    4300010: living-room__entry-door
+    4300012: living-room__window
+    4300014: entry-room__double-window
+    4300016: entry-room__single-window
+    4300018: picture-moulding
+    4300020: baseboard
+    4300022: ceiling
+    4300024: floor
+    4300026: walls
+    4300028: entry-room__kitchen-entry-frame
+    4300030: living-room__hall-frame
+    4300032: living-room__hall-frame.001
+    4300034: living-room__hall-door
+    4300036: outlets
+    4300038: vents-intake
+    4300040: vents-output
+    4300042: switches
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 8f949170aea8444a2a9eaca6623935bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior-walls
+    second: {fileID: 2100000, guid: 6fc8cf47826a743fc8e547d83aead1aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: recessed-lighting-emission
+    second: {fileID: 2100000, guid: 45caa06c7c59043fc8bf93140a994289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white-semi-gloss
+    second: {fileID: 2100000, guid: 586b001aaf64a4aecb1dbdf55b689463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white-semi-gloss--door-moulding
+    second: {fileID: 2100000, guid: 586b001aaf64a4aecb1dbdf55b689463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white-semi-gloss--door-moulding SELECT
+    second: {fileID: 2100000, guid: 586b001aaf64a4aecb1dbdf55b689463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white-semi-gloss--door-moulding.002
+    second: {fileID: 2100000, guid: 586b001aaf64a4aecb1dbdf55b689463, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

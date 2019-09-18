@@ -1,1 +1,0 @@
-# unity-baked-lighting-debug
